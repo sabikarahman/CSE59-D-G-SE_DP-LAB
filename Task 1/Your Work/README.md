@@ -218,7 +218,7 @@ The Student Management System is a standalone web application that can integrate
 * Configure System
 
 ## Entity Relationship Diagram (ERD)
-
+<img src="images/1.jfif">
 Entities:
 
 * Student
